@@ -1,1 +1,3 @@
-# kokoa-challenge-2021
+# Let's do this...
+
+![kokoa-challenge-01](https://user-images.githubusercontent.com/73802576/132630898-c899c0c4-06c4-4640-9d4e-cecd7e095c75.gif)
